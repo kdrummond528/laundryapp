@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  padding-bottom: 8px;
+  border-bottom: solid black 1px;
+}
+
+header h3 {
+  text-align: right;
+  padding-right: 2%;
+  margin-top: -20px;
+}
+
+.nav {
+  padding-left: 7px;
+  padding-top: 7px;
+}
+
+.menuicon {
+  border: 1px solid gray;
+  border-radius: 3px;
+}
+
+.menuiconbtn {
+  padding: 3px;
+}
